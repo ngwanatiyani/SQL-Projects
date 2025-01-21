@@ -4,10 +4,14 @@ Welcome to the AppDev Student Database! This project showcases a structured SQL 
 #### 🗄️ Database Overview
 Database Name: AppDev
 Purpose: Store and analyze student data.
+
 Contents: Records of 50 diverse students with:
 📍 Provinces: Students from all 9 South African provinces.
+
 🧑‍🎓 Demographics: Diversity in gender, age, names, and surnames.
+
 🏠 Residences: Students staying at different CPUT residences.
+
 📚 Modules: Scores for 8 modules, ranging from pass to distinction.
 
 #### 🛠️ Features
