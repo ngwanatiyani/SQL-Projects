@@ -52,7 +52,3 @@ UPDATE users SET cellNumber = '0622237100' WHERE userID = 4;
 UPDATE users SET accountNumber = '12345678' WHERE userID = 6;
 UPDATE users SET accountNumber = '87654321' WHERE userID = 7;
 
--- Drop column if needed (example for future schema updates)
--- ALTER TABLE users DROP COLUMN accountNumber;
-
--- Add additional queries if necessary
