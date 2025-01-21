@@ -34,7 +34,7 @@ CREATE TABLE students (
     ) VIRTUAL
 )
 
--- Insert 50 diverse students
+-- Different students under AppDev course
 INSERT INTO students (firstName, lastName, age, gender, province, residence, module1, module2, module3, module4, module5, module6, module7, module8)
 VALUES
     ('Sipho', 'Mkhize', 21, 'Male', 'Gauteng', 'Langalethu', 95, 92, 90, 93, 94, 96, 97, 91),
