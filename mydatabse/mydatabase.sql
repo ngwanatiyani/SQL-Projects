@@ -48,7 +48,7 @@ UPDATE users SET salary = 56342 WHERE userID BETWEEN 10 AND 20;
 UPDATE users SET cellNumber = '0730426817' WHERE userID = 3;
 UPDATE users SET cellNumber = '0622237100' WHERE userID = 4;
 
--- Add or modify account numbers
+
 UPDATE users SET accountNumber = '12345678' WHERE userID = 6;
 UPDATE users SET accountNumber = '87654321' WHERE userID = 7;
 
