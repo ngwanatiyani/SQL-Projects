@@ -1,7 +1,10 @@
 ### 🎓 AppDev Student Database 📊
-Welcome to the AppDev Student Database! This project showcases a structured SQL database containing information about second-year Application Development students at CPUT. The database is used to identify students who qualify for a prestigious Canadian Exchange Program Scholarship based on their academic performance. 🏅
+
+Welcome to the AppDev Student Database! 
+This project showcases a structured SQL database containing information about second-year Application Development students at CPUT. The database is used to identify students who qualify for a prestigious Canadian Exchange Program Scholarship based on their academic performance. 🏅
 
 #### 🗄️ Database Overview
+
 Database Name: AppDev
 Purpose: Store and analyze student data.
 
@@ -27,6 +30,7 @@ residence: CPUT residence name.
 module1 - module8: Scores for 8 modules (0-100).
 
 ##### 🎯 Scholarship Eligibility
+
 Criteria to Qualify for the Scholarship:
 🎓 Achieved 90+ in all 8 modules.
 🏅 Represents academic excellence and consistency.
