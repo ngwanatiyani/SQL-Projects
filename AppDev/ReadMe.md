@@ -20,11 +20,17 @@ Contents: Records of 50 diverse students with:
 ##### 1️⃣ Table: students
 
 id: Unique ID for each student (Primary Key).
+
 firstName: Student's first name.
+
 lastName: Student's last name.
+
 age: Student's age.
+
 gender: Gender (Male or Female).
+
 province: Student's home province (e.g., Gauteng, Limpopo).
+
 residence: CPUT residence name.
 
 module1 - module8: Scores for 8 modules (0-100).
