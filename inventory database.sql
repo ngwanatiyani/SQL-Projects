@@ -11,14 +11,17 @@ location varchar(50)
 );
 
 -- Insert data into the inventory table
-
-insert into inventory(itemName, quantity, location)
-values
-('Scews', 740, 'Warehouse A'),
-('Nails', 324, 'Warehouse B'),
-('Paint', 231, 'Warehouse D'),
-('Lumber', 100, 'Warehouse C')
-;
+INSERT INTO inventory (itemName, quantity, location) VALUES
+    ('Screws', 740, 'Warehouse A'),
+    ('Nails', 324, 'Warehouse B'),
+    ('Paint', 231, 'Warehouse D'),
+    ('Lumber', 100, 'Warehouse C'),
+    ('Bolts', 500, 'Warehouse A'),
+    ('Washers', 1500, 'Warehouse B'),
+    ('Glue', 200, 'Warehouse C'),
+    ('Sandpaper', 375, 'Warehouse D'),
+    ('Brushes', 100, 'Warehouse C'),
+    ('Plywood', 50, 'Warehouse A');
 
 -- Select all inventory items
 select * from inventory;
