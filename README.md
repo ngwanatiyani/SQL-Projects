@@ -1,1 +1,1 @@
-### This folder contains sql projects created using mySQL
+-- This folder contains SQL projects created using MySQL
