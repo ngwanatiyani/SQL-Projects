@@ -1,4 +1,3 @@
-Here's a cleaner and more organized version of your content:
 
 ### 🎓 AppDev Student Database 📊
 
